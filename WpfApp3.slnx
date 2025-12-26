@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="WpfApp3.Core/WpfApp3.Core.csproj" Id="5df7254a-b0f7-4d49-94e5-96a7845d8e2a" />
+  <Project Path="WpfApp3.Tests/WpfApp3.Tests.csproj" Id="696c534b-919a-44bb-8938-cf3d9ce38e10" />
+  <Project Path="WpfApp3/WpfApp3.csproj" Id="4122cb5e-a940-4e60-b981-29450e87ad4b" />
+</Solution>
